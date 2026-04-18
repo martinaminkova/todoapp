@@ -5,7 +5,7 @@ Simple task manager built with React and TypeScript.
 ## Features
 - Display tasks
 - Filter by user
-- Sort tasks (A-Z)
+- Sort tasks
 - Mark tasks as completed
 - Move tasks between lists
 
@@ -16,3 +16,5 @@ npm run dev
 ## Live Demo
 https://stackblitz.com/edit/vitejs-vite-nxezveda
 
+## Repository
+https://github.com/martinaminkova/todoapp
