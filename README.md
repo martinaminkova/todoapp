@@ -14,7 +14,7 @@ npm install
 npm run dev
 
 ## Live Demo
-[https://stackblitz.com/edit/vitejs-vite-nxezveda](https://vitejs-vite-nxezveda.stackblitz.io)
+https://vitejs-vite-nxezveda.stackblitz.io
 
 ## Repository
 https://github.com/martinaminkova/todoapp
