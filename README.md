@@ -1,21 +1,18 @@
-# Daily Planner (React Todo App)
+# Daily Planner (React)
 
-Simple task management app built with React.
+Simple task manager built with React and TypeScript.
 
 ## Features
-- Fetch tasks from API
+- Display tasks
 - Filter by user
-- Sort tasks (A-Z, newest)
+- Sort tasks (A-Z)
 - Mark tasks as completed
 - Move tasks between lists
 
 ## How to run
-
 npm install  
-npm run dev  
+npm run dev
 
 ## Live Demo
-(put your StackBlitz link here)
+https://stackblitz.com/edit/vitejs-vite-nxezveda
 
-## Screenshot
-(add screenshot here)
